@@ -1,0 +1,18 @@
+Algoritmo: Acordar
+
+Passo 1: Abrir os olhos.
+Passo 2: Espreguiçar o corpo.
+Passo 3: Sentar-se na cama.
+Passo 4: Dirigir-se ao banheiro.
+Passo 5: Lavar o rosto com água fresca.
+Passo 6: Tomar banho.
+Passo 7: Vestir-se.
+Passo 8: Dirigir-se a cozinha.
+Passo 9: Tomar café da manhã.
+Passo 10: Dirigir-se ao banheiro.
+Passo 11: Escovar os dentes.
+Passo 12: Dirigir-se a porta da frente.
+Passo 13: Sair para trabalhar.
+
+Fim do Algoritmo
+
